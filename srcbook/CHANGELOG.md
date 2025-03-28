@@ -1,5 +1,11 @@
 # srcbook
 
+## 0.0.19
+
+### Patch Changes
+
+- 17848a3: Add GitHub Pages documentation repository structure and configuration.
+
 ## 0.0.18
 
 ### Patch Changes
