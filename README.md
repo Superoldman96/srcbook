@@ -16,6 +16,12 @@
   <a href="https://hub.srcbook.com">Hub</a> 
 </p>
 
+## Maintainers Note
+
+Srcbook is currently not under active development. After overwhelming demand of making it a managed service, we have built and are operating https://getmocha.com for this purpose!
+
+In the future, we might revive Srcbook for its notebook product (over the app builder one, which is better served by Mocha).
+
 ## Srcbook
 
 Srcbook is a TypeScript-centric app development platform, with 2 main products:
